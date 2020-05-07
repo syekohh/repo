@@ -1,0 +1,32 @@
+Package: com.yourcompany.neoaudio
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Tweak Dev
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.neoaudio_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3012
+MD5sum: 067950de742d8d12860a8e20f2e66c82
+SHA1: ed08d1cefec0bac181200e812aa5d2bab3801739
+SHA256: d384968b3cd2e1e4bf01c55ebc3cbbaa589aa032c80eec77c5b93705e37d16a0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tweak Dev
+Name: neoAudio
+
+Package: com.yourcompany.notitle
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Tweak Dev
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.notitle_0.0.1-1+debug_iphoneos-arm.deb
+Size: 2858
+MD5sum: 1c141f7b58d3115cb7cce969def66a35
+SHA1: 7bfe0bf7828138db45d1451a5abbcbf92e95e795
+SHA256: de21edfadc8410ec8db4af2a42397594d7e7f7430f5b01b44a2ba1a615f3e886
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tweak Dev
+Name: noTitle
+
